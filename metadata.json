@@ -1,0 +1,5 @@
+{
+  "name": "AI Pose Replicator",
+  "description": "Transfer a pose from a reference image to your model. Upload a model, a reference image with the desired pose, describe the scene, and let Gemini generate a new image.",
+  "requestFramePermissions": []
+}
